@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ajay2582/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Matrix
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ajay2582/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
