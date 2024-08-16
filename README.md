@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/ajay2582/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajay2582/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ajay2582/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajay2582/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/ajay2582/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
