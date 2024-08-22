@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ajay2582/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/ajay2582/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
