@@ -21,13 +21,18 @@ public:
          
         }
 
-        if( k == original.size()){
-            return ans;
-        }
-        else {
-              return ans1;
+        // if( k == original.size()){
+        //     return ans;
+        // }
+        // else {
 
-        }
+
+        //       return ans1;
+
+        // }
+
+        return ans;
+
 
         
     }
