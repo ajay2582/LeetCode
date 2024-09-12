@@ -6,19 +6,17 @@ public:
             int val  = nums1[i];
 
             for(int j = 0 ; j < nums2.size();j++){
-
+                  
                 if(val == nums2[j]){
+
+                    auto it = find(ans.begin() , ans.end() , val);
+                    if(it == ans.end())
                     ans.push_back(val);
                 }
 
 
             }
         }
-        set<int> st( ans.begin() , ans.end()) ;
-      
-        vector<int> fin(st.begin() , st.end());
-      
-        return fin ;
-        
+       return ans;
     }
 };
