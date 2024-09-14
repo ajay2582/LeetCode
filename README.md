@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ajay2582/LeetCode/tree/master/0007-reverse-integer) |
 | [0273-integer-to-english-words](https://github.com/ajay2582/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ajay2582/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
