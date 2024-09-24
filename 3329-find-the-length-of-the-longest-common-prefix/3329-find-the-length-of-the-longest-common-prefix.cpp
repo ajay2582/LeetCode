@@ -70,6 +70,9 @@ public:
                           int len = prefix.length();
                     maxLength = max(maxLength, len );
                 }
+                else {
+                    break;
+                }
             }
         }
         
