@@ -65,8 +65,10 @@ public:
             string prefix = "";
             for (char ch : strNum) {
                 prefix += ch;
+                
                 if (prefixMap.find(prefix) != prefixMap.end()) {
-                    maxLength = max(maxLength, static_cast<int>(prefix.length()));
+                          int len = prefix.length();
+                    maxLength = max(maxLength, len );
                 }
             }
         }
