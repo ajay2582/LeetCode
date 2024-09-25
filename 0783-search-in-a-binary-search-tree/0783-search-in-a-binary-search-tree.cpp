@@ -21,6 +21,8 @@ public:
       
         if(r->val==v){
              temp = r  ;
+             return temp;
+
         }
         else if(r->val<v){
             searchBST(r->right,v);
