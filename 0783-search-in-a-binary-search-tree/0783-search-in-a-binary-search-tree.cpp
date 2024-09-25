@@ -16,7 +16,7 @@ public:
             return NULL;
         }
         
-        while(  (root != NULL) && (root->val != val)){
+        while(  (root != NULL) &&  (root->val != val)){
             if(root ->val > val){
                 root = root->left;
             }
