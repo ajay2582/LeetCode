@@ -39,8 +39,8 @@ public:
         for( int i = 1; i<=v; i++) {
             if( vis[i] == 0) {
 
-                cnt++;
                 dfs( adjls, vis , i );
+                cnt++;
             }
         }
         return cnt;
