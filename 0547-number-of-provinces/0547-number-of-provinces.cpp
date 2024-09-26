@@ -9,6 +9,7 @@ public:
 
                       if(vis[it ] == 0)
                       {
+                        vis[it] = 1 ;
                            dfs( isConnected , vis , it);
                       } 
                   }
