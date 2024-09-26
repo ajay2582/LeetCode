@@ -104,16 +104,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajay2582/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/ajay2582/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Two Pointers
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [1325-path-with-maximum-probability](https://github.com/ajay2582/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
