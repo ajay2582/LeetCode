@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-              void dfs( vector<int> isConnected[] , int vis[] , int s) {
+              void dfs( vector<int> isConnected[] , vector<int>&vis , int s) {
 
                   vis[s] = 1;
                   for(auto it : isConnected[s]) {
@@ -28,12 +28,10 @@ public:
                 }
             }
         }
-         int vis[v  + 1 ];
+        int V = v + 1;
+         vector<int> vis( V , 0);
 
-         for( int i = 0 ;i <= v; i++) {
-             vis[i] = 0;
-
-         }
+        
 
         int cnt = 0;
 
