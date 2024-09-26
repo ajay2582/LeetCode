@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ajay2582/LeetCode/tree/master/0039-combination-sum) |
 | [0179-largest-number](https://github.com/ajay2582/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ajay2582/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajay2582/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ajay2582/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajay2582/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/ajay2582/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
@@ -110,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Two Pointers
