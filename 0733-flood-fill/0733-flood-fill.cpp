@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>image,
+    void dfs(vector<vector<int>>&image,
      vector<vector<int>>&temp,  int sr , int sc , int color , int val , vector<int>&delrow, vector<int>&delcol){
              int n = temp.size();
              int m = temp[0].size();
@@ -13,6 +13,7 @@ public:
 
                     if(image[newrow][newcol] == val && temp[newrow][newcol] != color) {
 
+            //  temp[sr][sc] = color;
                     
                     dfs(image,temp,newrow,newcol,color,val,delrow,delcol);
                     }
@@ -27,6 +28,7 @@ public:
              vector<int>delcol = { 0 , 1 , 0 , -1};
 
         vector<vector<int>>temp = image ;
+        // temp[sr][sc] = color;
 
         dfs( image , temp , sr , sc , color , val , delrow ,delcol);
         return temp;
