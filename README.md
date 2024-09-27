@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ajay2582/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/ajay2582/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/ajay2582/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/ajay2582/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajay2582/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ajay2582/LeetCode/tree/master/0729-my-calendar-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ajay2582/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ajay2582/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ajay2582/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ajay2582/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ajay2582/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ajay2582/LeetCode/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajay2582/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ajay2582/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0542-01-matrix](https://github.com/ajay2582/LeetCode/tree/master/0542-01-matrix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ajay2582/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/ajay2582/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
