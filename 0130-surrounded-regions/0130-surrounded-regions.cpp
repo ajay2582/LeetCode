@@ -66,9 +66,9 @@ public:
               }
           }
 
-          for( int row = 1 ; row < n - 1 ; row++) {
+          for( int row = 0 ; row < n  ; row++) {
 
-              for ( int col = 1 ; col < m - 1 ; col++ ) {
+              for ( int col = 0 ; col < m  ; col++ ) {
 
                   if( board[row][col ] =='O' && vis[row][col] == 0) {
 
