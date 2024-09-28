@@ -11,13 +11,10 @@ public:
          for(int i = 0 ;i <V;i++){
             indegree[i] = 0;
          }
-        for(int i = 0 ;i <V;i++){
+        for(int i= 0 ; i <V;i++){
             for(auto it : adj[i]){
                 indegree[it]++;
             }
-
-               
-
         }
         queue<int>q;
         for(int i = 0 ;i < V;i++){
