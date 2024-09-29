@@ -21,7 +21,8 @@ public:
         // in a direction.
         int dr[] = {-1, 0, 1, 0};
         int dc[] = {0, 1, 0, -1};
-        // int mini = 1e9;
+        int mini = INT_MAX;
+
           while (!pq.empty())
         {
             auto it = pq.top();
@@ -33,7 +34,7 @@ public:
             // Check if we have reached the destination cell,
             // return the current value of difference (which will be min).
             if (row == n - 1 && col == m - 1)
-                return diff;
+                mini = min( mini , diff);
            
             for (int i = 0; i < 4; i++)
             {
@@ -60,7 +61,10 @@ public:
                 }
             }
         }
-        return 0; // if unreachable
+               if(mini == INT_MAX){
+                return 0;
+               }
+               return mini;
 
         
     }
