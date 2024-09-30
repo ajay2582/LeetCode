@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ajay2582/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajay2582/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0432-all-oone-data-structure](https://github.com/ajay2582/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ajay2582/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajay2582/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ajay2582/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/ajay2582/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/ajay2582/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajay2582/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ajay2582/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ajay2582/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajay2582/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ajay2582/LeetCode/tree/master/0859-design-circular-deque) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ajay2582/LeetCode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ajay2582/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
