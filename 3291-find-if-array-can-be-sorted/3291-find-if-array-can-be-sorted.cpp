@@ -5,7 +5,7 @@ public:
         vector<int> temp( nums.begin() , nums.end());
 
 
-        for( int i = 0 ; i < nums.size(); i++) {
+        for( int i = 1 ; i < nums.size(); i++) {
 
 
             int j = i ;
