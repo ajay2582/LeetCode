@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/ajay2582/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajay2582/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ajay2582/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ajay2582/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ajay2582/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajay2582/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ajay2582/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ajay2582/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ajay2582/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ajay2582/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ajay2582/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajay2582/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ajay2582/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ajay2582/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ajay2582/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ajay2582/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ajay2582/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ajay2582/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Brainteaser
 |  |
