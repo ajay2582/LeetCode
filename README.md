@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ajay2582/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajay2582/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/ajay2582/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/ajay2582/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/ajay2582/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/ajay2582/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ajay2582/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/ajay2582/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/ajay2582/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/ajay2582/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ajay2582/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ajay2582/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
