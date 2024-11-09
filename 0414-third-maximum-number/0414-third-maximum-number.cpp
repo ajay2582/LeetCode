@@ -9,9 +9,10 @@ public:
         }
         
         // Move reverse iterator to the third largest element
-        auto it = st.rbegin();
-        ++it;
-        ++it;
+        auto it = st.end();
+        it--;
+        it--;
+        it--;
 
         return *it;
     }
