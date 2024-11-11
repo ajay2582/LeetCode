@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/ajay2582/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ajay2582/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2155-find-missing-observations](https://github.com/ajay2582/LeetCode/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ajay2582/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/ajay2582/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ajay2582/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajay2582/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/ajay2582/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ajay2582/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ajay2582/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ajay2582/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/ajay2582/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajay2582/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ajay2582/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ajay2582/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ajay2582/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ajay2582/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
 |  |
