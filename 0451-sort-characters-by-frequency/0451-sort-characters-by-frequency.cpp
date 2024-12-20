@@ -1,6 +1,6 @@
 class Solution {
 public:
-      static bool cmp(pair<int, char> a, pair<int, char> b) {
+   static  bool cmp(pair<int, char> a, pair<int, char> b) {
         return a.first > b.first; // Sort in descending order of frequency
     }
     string frequencySort(string s) {
