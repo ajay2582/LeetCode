@@ -1,9 +1,8 @@
 class Solution {
 public:
-    // bool cmp(pair<int , char > a , pair<int, char > b){
-
-    //     return a.first > b.first;
-    // }
+      static bool cmp(pair<int, char> a, pair<int, char> b) {
+        return a.first > b.first; // Sort in descending order of frequency
+    }
     string frequencySort(string s) {
 
         int len = s.length();
@@ -18,9 +17,7 @@ public:
 
        }
 
-         sort(ans.begin(), ans.end(), [](pair<int, char> a, pair<int, char> b) {
-            return a.first > b.first;
-        });
+         sort(ans.begin(), ans.end(), cmp);
 
 
         string temp = "";
