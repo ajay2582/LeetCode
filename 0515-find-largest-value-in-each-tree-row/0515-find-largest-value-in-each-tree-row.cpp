@@ -20,12 +20,15 @@ public:
         q.push(root);
         while(q.empty()==false){
 
-            vector<int>temp;
+            // vector<int>temp;
             int cnt = q.size();
+            int maxi = INT_MIN;
             for(int i = 0 ; i < cnt;i++){
                 TreeNode * node = q.front();
                 q.pop();
-                temp.push_back(node->val);
+               auto tempo = node->val;
+               maxi = max(maxi , tempo);
+
 
 
                 if(node->left != NULL){
@@ -38,7 +41,7 @@ public:
                 }
             }
 
-            int maxi = *max_element(temp.begin(), temp.end());
+            // int maxi = *max_element(temp.begin(), temp.end());
             ans.push_back(maxi);
 
 
