@@ -20,7 +20,7 @@ public:
             for(int j = 0 ; j < n;j++){
                 if(isConnected[i][j] == 1 && i != j){
                     adj[i+1].push_back(j+1);
-                    adj[j+1].push_back(i+1);
+                    // adj[j+1].push_back(i+1);
                 }
             }
         }
