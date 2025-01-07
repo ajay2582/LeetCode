@@ -10,10 +10,17 @@ public:
             if(s[i] == '(' || s[i] == '[' || s[i] == '{') {
                 st.push(s[i]);
             }else {
-                if (st.empty()) {
-                    return false; // No matching opening bracket for this closing bracket
+                // if (st.empty()) {
+                //     return false; // No matching opening bracket for this closing bracket
+                // }
+                if(st.empty() == true) {
+                    return false;
                 }
-                char ch2 = st.top();
+                char ch2;
+                if(st.empty() == false) {
+                    ch2 = st.top();
+
+                }
                 // Validate matching pairs
                 if ((ch2 == '[' && s[i] != ']') || 
                     (ch2 == '{' && s[i] != '}') || 
