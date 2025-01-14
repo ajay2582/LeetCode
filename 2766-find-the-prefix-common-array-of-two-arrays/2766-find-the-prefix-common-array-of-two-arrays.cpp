@@ -4,6 +4,7 @@ public:
         int n = A.size();
         vector<int>ans;
         vector<int>qa;
+        set<int>st;
         vector<int>qb;
         for(int i = 0 ; i < n ;i++){
             int a = A[i];
@@ -11,11 +12,10 @@ public:
             qa.push_back(a);
             qb.push_back(b);
             int len =  qa.size();
-            set<int>st;
-            for(int j = 0; j < len;j++){
-                st.insert(qa[j]);
-                st.insert(qb[j]);
-            }
+           
+                st.insert(A[i]);
+                st.insert(B[i]);
+            
 
             int res =( (2*len) - st.size());
 
