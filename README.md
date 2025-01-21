@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajay2582/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ajay2582/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajay2582/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ajay2582/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ajay2582/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ajay2582/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ajay2582/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajay2582/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ajay2582/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ajay2582/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ajay2582/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ajay2582/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajay2582/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ajay2582/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/ajay2582/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ajay2582/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
