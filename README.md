@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajay2582/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ajay2582/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/ajay2582/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajay2582/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajay2582/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ajay2582/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ajay2582/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ajay2582/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/ajay2582/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajay2582/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajay2582/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajay2582/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ajay2582/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ajay2582/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajay2582/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ajay2582/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ajay2582/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajay2582/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ajay2582/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ajay2582/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
