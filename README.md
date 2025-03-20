@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ajay2582/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ajay2582/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ajay2582/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajay2582/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajay2582/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ajay2582/LeetCode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay2582/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ajay2582/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/ajay2582/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1753-path-with-minimum-effort](https://github.com/ajay2582/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajay2582/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ajay2582/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ajay2582/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ajay2582/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajay2582/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/ajay2582/LeetCode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay2582/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/ajay2582/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/ajay2582/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajay2582/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajay2582/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
