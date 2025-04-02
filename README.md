@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ajay2582/LeetCode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ajay2582/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ajay2582/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/ajay2582/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/ajay2582/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/ajay2582/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ajay2582/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ajay2582/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ajay2582/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ajay2582/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/ajay2582/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
