@@ -10,7 +10,7 @@ public:
 
         for( int i = 1 ; i < n ;i++){
 
-            if( prices[i] < mini ) {
+            if( prices[i] <= mini ) {
 
                 mini = prices[i];
 
