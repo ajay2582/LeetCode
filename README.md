@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ajay2582/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ajay2582/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ajay2582/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ajay2582/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajay2582/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ajay2582/LeetCode/tree/master/0130-surrounded-regions) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ajay2582/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ajay2582/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ajay2582/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/ajay2582/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay2582/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ajay2582/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ajay2582/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ajay2582/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ajay2582/LeetCode/tree/master/0202-happy-number) |
