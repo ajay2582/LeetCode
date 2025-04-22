@@ -58,7 +58,7 @@ public:
           int last =   lastf( s );
 
              last++;
-             
+
 
 
 
@@ -103,23 +103,7 @@ public:
             }
         }
 
-        // string temp = "";
-        // for( int j = last ; j >= 0 ; j--) {
-
-        //     if( s[j] != ' ') {
-
-        //         temp += s[j];
-
-        //     }
-
-        //     else {
-
-        //         reverse(temp.begin(), temp.end());
-        //         st.push( temp);
-        //         break;
-
-        //     }
-        // }
+      
 
         while(st.size() != 1) {
 
