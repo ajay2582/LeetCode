@@ -20,8 +20,8 @@ public:
 
         while( fast ->next  != NULL  && fast ->next ->next != NULL) {
 
-            fast = fast -> next ->next ;
             slow = slow ->next ;
+            fast = fast -> next ->next ;
 
             if( fast == slow ) {
                 return true;
