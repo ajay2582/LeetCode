@@ -17,7 +17,7 @@ public:
                 int thirdnum = nums[j];
 
                 int sum = firstnum + thirdnum;
-                float  res =  (float)secondnum / 2  ;
+                float   res =  (float)secondnum / 2  ;
                 if( res ==  sum  ) {
                     cnt++;
                 }
