@@ -10,41 +10,45 @@
  * };
  */
 class Solution {
-private:
-             int maxDepth(TreeNode* root) {
-
-        if( root == NULL ){
-            return 0;
-            
-        }
-        
-
-        int left = maxDepth(root ->left);
-        int right = maxDepth(root ->right);
-        int ans = max( left , right );
-        return ans + 1 ;
-
-        
-    }
 public:
+    int height(TreeNode *root) {
+        if( root == NULL) {
+            return 0;
+
+        }
+        int lh = height(root -> left);
+        int rh = height( root -> right);
+
+        return max( lh ,  rh ) + 1;
+    }
+
 
     bool isBalanced(TreeNode* root) {
 
-        if( root == NULL){
-            return true ;
-
+        if( root == NULL) {
+            return true;
         }
 
+        int left = height( root -> left);
+        int right = height( root -> right);
 
-        int lh = maxDepth(root -> left);
-        int rh = maxDepth(root ->right);
-        if( abs(rh - lh ) > 1){
+        if( abs( left - right) > 1) {
             return false;
+
         }
 
-         return isBalanced(root ->left ) && isBalanced(root->right);
-         
-        
+          bool one =  isBalanced( root -> left);
+        bool two = isBalanced(root -> right);
+
+        if( one == false || two == false) {
+            return false ;
+        }
+
+
+        return true;
+
+
+
 
 
         
